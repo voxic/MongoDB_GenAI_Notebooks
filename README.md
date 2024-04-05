@@ -51,6 +51,7 @@ python -m jupyter notebook
 - [MongoDB Solutions Library](https://www.mongodb.com/solutions/solutions-library)
 - [MongoDB Chatbot Framework](https://mongodb.github.io/chatbot/)
 - [RAG to Riches Developer Quest](https://www.mongodb.com/events/rag-to-riches)
+- [External Brain - Live Chatbot example](https://github.com/patw/ExternalBrain)
 
 ## Contributing
 
