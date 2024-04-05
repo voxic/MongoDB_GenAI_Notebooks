@@ -1,0 +1,8 @@
+pymongo[srv]
+langchain
+langchain-openai
+pypdf
+openai
+python-dotenv
+tiktoken
+jupyter
