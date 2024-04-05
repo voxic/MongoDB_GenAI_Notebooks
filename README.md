@@ -50,6 +50,7 @@ python -m jupyter notebook
 - [MongoDB Aggregation framework Ebook](https://www.practical-mongodb-aggregations.com/front-cover.html)
 - [MongoDB Solutions Library](https://www.mongodb.com/solutions/solutions-library)
 - [MongoDB Chatbot Framework](https://mongodb.github.io/chatbot/)
+- [RAG to Riches Developer Quest](https://www.mongodb.com/events/rag-to-riches)
 
 ## Contributing
 
@@ -63,7 +64,3 @@ This collection is distributed under the MIT License. See LICENSE for more infor
 
 - MongoDB, Inc. for providing the powerful database platform and the Atlas Search feature.
 - The developers of Langchain and the OpenAI API for enabling advanced language model integrations.
-
-```
-
-```
